@@ -28,4 +28,3 @@ License (If You’re Into That Kind of Thing)
 This project is licensed under the MIT License (LOL). Go wild. Just don’t break anything.
 Just a random repo to print lyrics when I am bored :/ (probably in class or something)
 
-origin/main
